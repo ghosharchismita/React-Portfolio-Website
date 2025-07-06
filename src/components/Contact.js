@@ -13,12 +13,12 @@ export default function Contact() {
             <ul className = 'social-icons'>
                 <li className = 'icon'>
                     <img src = {socialIcon1} alt = 'LinkedIn icon'/>
-                    <a href = {process.env.REACT_APP_LINKEDIN_URL} target="_blank" rel="noopener noreferrer"> LinkedIn </a>
+                    <a href = "https://www.linkedin.com/in/archismita-ghosh/" target="_blank" rel="noopener noreferrer"> LinkedIn </a>
                 </li>
 
                 <li className = 'icon'>
                     <img src = {socialIcon2} alt = 'Github icon'/>
-                    <a href = {process.env.REACT_APP_GITHUB_URL} target="_blank" rel="noopener noreferrer"> Github </a>
+                    <a href = "https://github.com/ghosharchismita" target="_blank" rel="noopener noreferrer"> Github </a>
                 </li>
             </ul>
         </footer>

@@ -65,8 +65,8 @@ export default function NavBar() {
                 </ul>
                 <span className = "navbar-text">
                     <div className = "social-icon">
-                        <a href = {process.env.REACT_APP_LINKEDIN_URL} target="_blank" rel="noopener noreferrer"> <img src = {icon1} alt = "" /> </a>
-                        <a href = {process.env.REACT_APP_GITHUB_URL} target="_blank" rel="noopener noreferrer"> <img src = {icon2} alt = "" /> </a>
+                        <a href = "https://www.linkedin.com/in/archismita-ghosh/" target="_blank" rel="noopener noreferrer"> <img src = {icon1} alt = "" /> </a>
+                        <a href = "https://github.com/ghosharchismita" target="_blank" rel="noopener noreferrer"> <img src = {icon2} alt = "" /> </a>
                     </div>
                     <a href="#connect" className="let-connect" ></a> <button className = "vvd" onClick={() => scrollToElement('connect')}> <span>Let's Connect</span></button>
                 </span>
