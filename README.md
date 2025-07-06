@@ -1,5 +1,7 @@
 # Purpose and Benefit
-#### This is a portfolio website built to showcase my skills and projects along with my frontend development skills.
+#### Welcome to my portfolio! This website is designed to showcase my skills, projects, and experiences across the fields of <b>Frontend Development</b> and <b>Data Science</b>.  
+  It reflects my journey as a developer—building responsive and optimized web applications while also exploring the power of data through analysis, visualization, and machine learning.  
+  From elegant UI interfaces to intelligent, data-driven solutions, I’m passionate about crafting impactful digital experiences. Dive in to explore the technologies I work with and the projects I’ve brought to life!
 
 # Setup of the website
 #### Download the zip file and follow the instructions below to run it in your machine
@@ -36,4 +38,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 # Outcome 
-#### The project has a navbar for easy navigation between sections as this is a single page website. It then has an about section with a link to my coding profile (specifically Leetcode here) , skills section showcasing all the tools and fraeworks I know followed by a project section showcasing some projects that i have developed so far. Lastly it has a footer with the links to my Linkedin and Github profiles for connections and collaborations. 
+#### The project has a navbar for easy navigation between sections as this is a single page website. It then has an about section with a link to my coding profile (specifically Leetcode here) , skills section showcasing all programming languages, the tools, libraries and frameworks I know, followed by a project section showcasing some projects that i have developed so far. Lastly it has a footer with the links to my Linkedin and Github profiles for connections and collaborations. 
